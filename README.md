@@ -12,13 +12,13 @@
 
 ## [成员](https://github.com/sochub/EDA/wiki)  
 
-#### [Altium Designer](https://github.com/mcuyun/AltiumDesigner) 
+#### [Altium Designer](https://github.com/sochub/AltiumDesigner) 
 
-#### [Candence](https://github.com/mcuyun/Candence) 
+#### [Candence](https://github.com/sochub/Candence) 
 
-#### [Eagle](https://github.com/mcuyun/Eagle) 
+#### [Eagle](https://github.com/sochub/Eagle) 
 
-#### [PADS](https://github.com/mcuyun/PADS) 
+#### [PADS](https://github.com/sochub/PADS) 
 
 ---
 
