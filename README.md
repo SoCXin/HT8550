@@ -19,10 +19,12 @@ EDA（Electronics Design Automation）在20世纪60年代中期从计算机辅�
 * [KiCad](https://github.com/sochub/KiCad) 
 
 
-### [设计仿真工具](https://github.com/sochub/EDA)  
+### [独立仿真工具](https://github.com/sochub/EDA)  
 
 * [NI Multisim](https://github.com/sochub/Multisim) 
+* [EWB](https://github.com/sochub/EWB) 
 * [Matlab Simulink](https://github.com/sochub/Simulink) 
+* [SPICE](https://github.com/sochub/SPICE) 
 
 ###  [SoC资源平台](https://github.com/sochub)
 
