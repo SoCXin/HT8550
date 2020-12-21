@@ -1,29 +1,27 @@
-﻿# [EDA](https://github.com/SoCXin/EDA)
+﻿# [HT8550](https://github.com/SoCXin/HT8550)
 
 [![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-#### [SDK](https://github.com/SoCXin/SDK)
+#### [Vendor](https://github.com/SoCXin/Vendor)：[hitrendtech](http://www.hitrendtech.com/)
+#### [Core](https://github.com/SoCXin/Cortex)：[Cortex M0](https://github.com/SoCXin/CM0)
+#### [Level](https://github.com/SoCXin/Level)：39.32MHz
 
-## [EDA描述](https://github.com/SoCXin/EDA/wiki)
+[HT8550](http://www.hitrendtech.com/list_product/14)
 
-EDA（Electronics Design Automation）在20世纪60年代中期从计算机辅助设计（CAD）、计算机辅助制造（CAM）、计算机辅助测试（CAT）和计算机辅助工程（CAE）的概念发展而来的。在EDA软件开发方面，美国具有引导优势。
+[![sites](docs/HT8550.png)](http://www.hitrendtech.com/products/5)
 
-学术定义的EDA范围极光，涉及的知识非常庞大，在此将EDA所指内容缩小为PCB电气设计相关工具，也是大多数嵌入式硬件工程师所掌握的技能。
+#### 关键特性
 
-### [电路设计工具](https://github.com/SoCXin/EDA)
+*
 
-* [Altium Designer](https://github.com/SoCXin/Altium)
-* [Cadence Allegro](https://github.com/SoCXin/Cadence)
-* [mentor PADS](https://github.com/SoCXin/PADS)
-* [Eagle](https://github.com/SoCXin/Eagle)
-* [KiCad](https://github.com/SoCXin/KiCad)
+### [资源收录](https://github.com/SoCXin/HT8550)
 
+* [参考文档](docs/)
+* [参考资源](src/)
+* [参考工程](project/)
 
-### [独立仿真工具](https://github.com/SoCXin/EDA)
+### [选型建议](https://github.com/SoCXin)
 
-* [NI Multisim](https://github.com/SoCXin/Multisim)
-* [EWB](https://github.com/SoCXin/EWB)
-* [Matlab Simulink](https://github.com/SoCXin/Simulink)
-* [SPICE](https://github.com/SoCXin/SPICE)
+[HT8550](https://github.com/SoCXin/HT8550)
 
-###  [SoC芯平台](http://www.SoC.Xin)
+###  [www.SoC.xin(芯)](http://www.SoC.Xin)

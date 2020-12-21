@@ -1,4 +1,9 @@
 *.pyc
+*.bin
+*.out
+*.hex
+*.log
+*.o
+~$*
 .pio/
 .vscode/
-software/*.bin
