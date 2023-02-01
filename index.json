@@ -20,7 +20,7 @@
     },
     "version":"1.0.0",
     "series":["HT8550"],
-    "package":["QFN32","QFN24"],
+    "package":["LQFP48"],
     "peripheral": ["PD","ADC","USART","SPI","I2C","I2S"],
     "keywords": [
         "dev-platform",
